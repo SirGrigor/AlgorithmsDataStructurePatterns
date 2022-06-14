@@ -1,6 +1,9 @@
 package algorithms.linearSearch;
 
 public class LinearSearch {
+    public LinearSearch() {
+    }
+
     public static int search (int[] arr, int x){
         int n = arr.length;
         for (int i = 0; i < n; i++) {
