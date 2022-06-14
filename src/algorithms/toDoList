@@ -1,0 +1,31 @@
+Category:
+    Searching:
+        - Linear Search
+        - Binary Search
+        - Depth First Search
+        - Breadth First Search
+    Sorting:
+        - Insertion Sort
+        - Heap Sort
+        - Selection Sort
+        - Merge Sort
+        - Quick Sort
+        - Counting Sort
+    Graphs:
+        - Kruskals Algo
+        - Diikstra Algo
+        - Bellman Ford Algo
+        - Floyd Warshall Algo
+        - Topological Sort Algo
+        - Flood Fill algo
+        - Lee Algo
+    Arrays:
+        - Kadanes Algo
+        - Floyds Cycle Detection Algo
+        - KMP Algo
+        - Quick Select Algo
+        - Boyer - Morre Majority Vote Algo
+    Basics:
+        - Huffman Coding Compression Algo
+        - Euclids Algo
+        - Union Find Algo
