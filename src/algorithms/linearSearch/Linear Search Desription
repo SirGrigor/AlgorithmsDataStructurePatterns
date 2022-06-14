@@ -1,0 +1,8 @@
+Linear search is the simple for-looping wia array.
+
+arr[] - array
+x - value to find
+
+Via iteration one via arr we are looking for matching value in cell.
+If x found, program returns value of x
+Else return -1
