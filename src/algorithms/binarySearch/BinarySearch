@@ -1,0 +1,24 @@
+Logics.
+
+We have:
+int[] arr - sorted array
+int left - starting index of array
+int right - last index of array
+mid - middle of array, where mid = left + (right - left) / 2
+X - value to find
+
+Step 1.
+Calculate the middle
+
+Step 2.
+Check if middle is a X
+    if - yes, return middle
+
+Step 3.
+Check if middle > than X
+    if yes, cut array in half. mid - 1 , becomes new right and function calls itself
+    if no, cut array in half, mid +1, becomes new left function calls itself
+
+Step 4.
+    if found nothing return -1
+
